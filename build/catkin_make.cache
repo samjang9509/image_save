@@ -1,0 +1,2 @@
+image_saver:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/cona/image_save/devel -DCMAKE_INSTALL_PREFIX=/home/cona/image_save/install -G Unix Makefiles

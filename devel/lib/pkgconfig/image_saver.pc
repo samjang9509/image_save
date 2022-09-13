@@ -1,0 +1,8 @@
+prefix=/home/cona/image_save/devel
+
+Name: image_saver
+Description: Description of image_saver
+Version: 0.0.0
+Cflags: -I/home/cona/image_save/src/image_saver/include
+Libs: -L${prefix}/lib 
+Requires: 
